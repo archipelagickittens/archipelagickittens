@@ -1,1 +1,2 @@
-![Profile](./images/cats_1.jpg)
+![Profile](./images/cats_2.jpg)
+&ensp;*archipelagickittens' profile*
